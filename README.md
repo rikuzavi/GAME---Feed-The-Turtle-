@@ -8,9 +8,7 @@ Download all the 3 files
 have python3 installed in your computer
 double click the run.exe 
 
-enjoy . .
-       |
-     \___/         
+enjoy. .  . . ....  😁        
      
      
      
